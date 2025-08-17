@@ -63,4 +63,4 @@ I HOPE TO CONTINUE DEVELOPING AND IMPROVING THE APPLICATION AND MAKE IT A VALUAB
 
 #OUTPUT
 
-<img width="993" height="1006" alt="Image" src="https://github.com/user-attachments/assets/a2386c16-c22e-40cc-bb41-5d59c4d8693a" />
+<img width="926" height="905" alt="Image" src="https://github.com/user-attachments/assets/06a0961e-6d9c-4507-a348-2445e18a269d" />
